@@ -1,11 +1,11 @@
 # CppND-System-Monitor
 
 ### Starter Project:
-<br/>
+
 ![Starting System Monitor](images/starting_monitor.png)
 
 ### Finished Project:
-<br/>
+
 ![System Monitor](images/monitor.png)
 
 ## ncurses
